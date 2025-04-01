@@ -9,7 +9,7 @@ Love exploring new technologies and problem-solving through code.
 🌱 Currently Learning:
 PHP & JavaScript (Mastering the backend & frontend magic ✨)
 
-Deep diving into Databases, Django, and Assembly
+Deep diving into Databases, Django
 
 📫 How to Reach Me:
 pavanpandya016@gmail.com
