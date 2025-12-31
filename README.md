@@ -22,23 +22,16 @@ I enjoy coding, building backend systems, and understanding how software works u
 ## Tech Stack
 
 ### Languages
-- C  
-- Java  
-- Python  
-- PHP  
-- JavaScript  
+- C, Java, Python, PHP, JavaScript  
 
 ### Frontend
-- HTML  
-- CSS  
-- Bootstrap  
+- HTML, CSS, Bootstrap  
 
 ### Frameworks
 - Django  
 
 ### Databases
-- MySQL  
-- SQLite  
+- MySQL, SQLite  
 
 ---
 
